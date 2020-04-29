@@ -1,31 +1,15 @@
-##Install NodeJs from official Site 
+## Install NodeJs from official Site 
 
 https://nodejs.org/en/
 version: 14.0.0
 
-install React dependencies  
+## install React dependencies  
 
-##create-react-app todolist
+create-react-app todolist
 
-##Run React app by following steps  
+## Run React app by following steps  
 
  npm start
-
-Screenshot of the To-do List
-
-
- 
-
-
-
-
- 
-
- 
-
- 
-
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
