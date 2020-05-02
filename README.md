@@ -12,6 +12,12 @@ create-react-app todolist
  npm start
 
 
+
+
+![Start a todo list](https://user-images.githubusercontent.com/40532644/80855498-4bd12180-8c5f-11ea-8c11-1a7c729b9112.png)
+![add Task](https://user-images.githubusercontent.com/40532644/80855502-5390c600-8c5f-11ea-9192-31a1c219dc45.png)
+![Select task](https://user-images.githubusercontent.com/40532644/80855507-555a8980-8c5f-11ea-9470-62343f6e5321.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
